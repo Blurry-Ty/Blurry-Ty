@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Blurry-Ty (@Pedroof13 or @Folk) 
-- 👀 I’m interested in back-end scripting and games
-- 🌱 I’m currently learning Html/Css/Js
-- 💞️ I’m looking to collaborate on small projects for learning
-- 📫 You can reach me in ...
+- 👋 Opa, me chamo Pedro Folkmann (@Pedroof13 ou @Folk) 
+- 🤖 Atualmente cursando Ciencias da Computação (CIC) no Instituto Maua de Tecnologia (IMT)
+- 📫 Email: pedro.o.folkmann@gmail.com
 
 <!---
 Blurry-Ty/Blurry-Ty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
