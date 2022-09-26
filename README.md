@@ -1,4 +1,4 @@
-- 👋 Opa, me chamo Pedro Folkmann (@Pedroof13 ou @Folk) 
+- 👋 Olá, me chamo Pedro Folkmann (@Pedroof13 ou @Folk) 
 - 🤖 Atualmente cursando Ciencias da Computação (CIC) no Instituto Maua de Tecnologia (IMT)
 - 📫 Email: pedro.o.folkmann@gmail.com
 <div align="center">
