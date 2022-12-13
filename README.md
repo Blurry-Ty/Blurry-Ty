@@ -1,6 +1,11 @@
-- 👋 Olá, me chamo Pedro Folkmann (@Pedroof13 ou @Folk) 
-- 🤖 Atualmente cursando Ciencias da Computação (CIC) no Instituto Maua de Tecnologia (IMT)
+<h1 align="center">Hi, I'm Pedro Folkmann <br /> (Oi, Me chamo Pedro Folkmann)</h1>
+
+<h2 align="center">A eternal student passionate about development <br/> (Um eterno estudante apaixonado por desenvolvimento)</h2>
+
+- 🤖 I’m currently studying Computer Science (CIC) at the Institute Mauá of Technology (IMT)
+- 🌱 I’m currently learning **Web-dev**
 - 📫 Email: pedro.o.folkmann@gmail.com
+
 <div align="center">
   <a href="https://github.com/PedroFolk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroFolk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -8,4 +13,3 @@
 </div>
 
   
-![Snake animation](https://github.com/PedroFolk/PedroFolk/blob/output/github-contribution-grid-snake.svg)
