@@ -4,8 +4,8 @@
 
 - I’m currently studying Computer Science (CIC) at the Institute Mauá of Technology (IMT)
 - I’m currently learning **Web-dev**
-- 📫 Email: pedro.o.folkmann@gmail.com
-
+- Feel free to contact me
+<br/>
 <div align="center">
   <a href="https://github.com/PedroFolk">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroFolk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -28,7 +28,7 @@
   <img align="center" alt="Folk-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <br />
     <br />
-      <a href="https://www.linkedin.com/in/PedroFolk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://www.linkedin.com/in/pedro-folkmann" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
     
   </h1>
