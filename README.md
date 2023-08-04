@@ -4,7 +4,7 @@
 
 
 - I’m currently studying Computer Science (CIC) at the Institute Mauá of Technology (IMT)
-- I’m currently learning **Web-dev**
+- I’m currently learning **Flutter and Dart**
 - Feel free to contact me
 
 <br/>
@@ -29,6 +29,7 @@
   <img align="center" alt="Folk-Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Folk-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Folk-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="center" alt="Folk-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fluttee/flutter-original.svg">
 
 <br />
 <br />
